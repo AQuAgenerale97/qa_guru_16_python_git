@@ -6,8 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hello!!!!!!!, {name}!!!')  # Press Ctrl+F8 to toggle the breakpoint.
-    print('I don\'t need something to drink.')
+    print(f'Hello, {name}?')  # Press Ctrl+F8 to toggle the breakpoint.
+    print('I don\'t need something to eat.')
 
 
 # Press the green button in the gutter to run the script.
